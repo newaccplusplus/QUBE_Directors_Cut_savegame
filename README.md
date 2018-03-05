@@ -19,11 +19,11 @@ Then I Can Walk 90,000 More!
 
 The savegame therefore has the following entries:
 
-      Total Pickups:		9999
+      Total Pickups: 9999
 
-      Total Times Played:	499
+      Total Times Played: 499
 
-      Total Distance:		99 879m
+      Total Distance: 99 879m
 
 Just play and finish the last level of the DLC ("Space Race") and collect at least one pickup 
 in order to get all 3 achievements.
