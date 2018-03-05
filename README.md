@@ -6,7 +6,6 @@ except for the following 3 (which take too much time and are annoying if you alr
 
 Q.U.B.E. Master
       -Play the game 500 times
-      
 You've Got A Problem
       -Collect 10,000 pickups
       
